@@ -1,0 +1,13 @@
+.menuItems{
+    background-color: rgb(247, 211, 165);
+    height: 10vh;
+    width: 100%;
+    box-shadow: -10px 10px teal;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: flex-end;
+    color: teal;
+    margin-top: -40px;
+}
